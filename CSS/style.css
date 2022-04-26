@@ -1,0 +1,149 @@
+    .rslides img {
+        height: 100%;
+        width: 100%;
+    }
+    
+    .rslides {
+        position: relative;
+        list-style: none;
+        overflow: hidden;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .bnr-left,
+    .bnr-right {
+        width: 50%;
+        float: left;
+    }
+    
+    .bnr-two {
+        background: #fff;
+        padding: 30px 15px;
+        margin: 10px;
+    }
+    
+    .abt-one h4 {
+        font-size: 1.5em;
+        font-weight: 600;
+        margin: 18px 0 0 0;
+        text-transform: uppercase;
+    }
+    
+    .abt-one img {
+        width: 100%;
+        height: 135px;
+    }
+    
+    .slides img {
+        width: 100%;
+    }
+    
+    .address input[type="text"] {
+        border: 1px solid #242424;
+        outline: none;
+        width: 100%;
+        font-size: 14px;
+        padding: 10px 10px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    input,
+    button,
+    select,
+    textarea {
+        border: 1px solid #242424;
+        outline: none;
+        width: 100%;
+        font-size: 14px;
+        padding: 10px 10px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .prev-btn {
+        float: left;
+        color: black;
+        font-size: 14px;
+    }
+    
+    .next-btn {
+        float: right;
+        color: black;
+        font-size: 14px;
+    }
+    
+    .fa-caret-up {
+        padding: 8px 10px 5px 15px;
+        border: 1px solid #eaeaea;
+        display: inline-block;
+        width: auto;
+        margin-top: 5px;
+        border-radius: 0px;
+    }
+    
+    .fa-caret-down {
+        padding: 8px 10px 5px 15px;
+        border: 1px solid #eaeaea;
+        display: inline-block;
+        width: auto;
+        margin-top: 5px;
+        border-radius: 0px;
+    }
+    
+    .input-sm {
+        text-align: center;
+        max-width: 64px;
+        margin: 0 auto;
+        border-radius: 0px;
+        border: 1px solid #eaeaea;
+    }
+    
+    .checkout-page .box-border label {
+        margin-top: 5px;
+    }
+    
+    .pull-right {
+        float: left;
+        width: 100px;
+    }
+    
+    .product-left {
+        position: relative;
+        text-align: center;
+        padding: 20px 20px 20px 20px;
+    }
+    
+    .abt-shoe {
+        padding: 20px 20px 20px 20px;
+        background: rgba(153, 153, 153, 0.49);
+    }
+    
+    input.search {
+        width: 240px;
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        padding: 12px 16px;
+        z-index: 1;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    
+    .abt-shoe-left {
+        position: relative;
+        text-align: center;
+        padding: 20px 20px 20px 20px;
+    }
